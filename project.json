@@ -1,0 +1,17 @@
+{
+  "name": "MagicLamp",
+  "about": "Волшебное реле",
+  "version": "0.1",
+  "notes": "Старт",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
