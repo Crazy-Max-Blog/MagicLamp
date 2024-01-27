@@ -12,6 +12,43 @@
           "offset": 0
         }
       ]
+    },
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Crazy-Max-Blog/MagicLamp/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Crazy-Max-Blog/MagicLamp/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S2",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Crazy-Max-Blog/MagicLamp/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Crazy-Max-Blog/MagicLamp/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
     }
   ]
 }
+
