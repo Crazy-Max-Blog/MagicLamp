@@ -1,8 +1,8 @@
 {
   "name": "MagicLamp",
-  "about": "Волшебное реле",
+  "about": "MR",
   "version": "0.1.1",
-  "notes": "testт",
+  "notes": "testt",
   "builds": [
     {
       "chipFamily": "ESP8266",
