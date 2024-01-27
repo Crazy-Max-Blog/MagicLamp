@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://github.com/Crazy-Max-Blog/MagicLamp/raw/main/bin/esp8266.bin",
+          "path": "https://raw.githubusercontent.com/Crazy-Max-Blog/MagicLamp/main/bin/esp8266.bin",
           "offset": 0
         }
       ]
