@@ -1,1 +1,1 @@
-# MagicLamp
+# MagicRelay
