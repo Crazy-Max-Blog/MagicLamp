@@ -1,8 +1,8 @@
 {
   "name": "MagicLamp",
   "about": "SmartRelay",
-  "version": "0.7",
-  "notes": "Исправлены мелкие баги (abvgd)",
+  "version": "0.9",
+  "notes": "Add button!",
   "builds": [
     {
       "chipFamily": "ESP8266",
