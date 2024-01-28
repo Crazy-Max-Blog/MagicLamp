@@ -1,7 +1,7 @@
 {
   "name": "MagicLamp",
   "about": "SmartRelay",
-  "version": "0.5",
+  "version": "0.6",
   "notes": "Исправлены мелкие баги (Data Struct)",
   "builds": [
     {
