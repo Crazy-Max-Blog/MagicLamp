@@ -1,8 +1,8 @@
 {
   "name": "MagicLamp",
   "about": "SmartRelay",
-  "version": "0.13",
-  "notes": "Add button!",
+  "version": "0.14",
+  "notes": "test test/ntest!",
   "new_install_prompt_erase":true,
   "new_install_improv_wait_time":0,
   "builds": [
